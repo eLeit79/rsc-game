@@ -37,3 +37,8 @@ if (xSpd > 0) {
 }
 
 depth = -bbox_bottom + 2000;
+
+if (hp >= initialhp) hpAlpha -= 0.05;
+if (hpAlpha > 1.0) hpAlpha = 1.0;
+if (hp < initialhp) hpAlpha += 0.05;
+if (hpAlpha < 0.0) hpAlpha = 0.0;

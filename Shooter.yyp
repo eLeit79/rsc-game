@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "36579dd7-4f56-434d-ba44-6fef001fce01",
+            "Value": {
+                "id": "fb5988c8-a9e1-46d9-bd82-5078da227987",
+                "resourcePath": "sprites\\sprEnemyKnockedDot\\sprEnemyKnockedDot.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3748b8b1-c41e-4274-8217-d7aed4c7d439",
             "Value": {
                 "id": "31f72c11-6cfe-4418-85f6-9631bd6607ef",
@@ -1007,6 +1015,14 @@
             }
         },
         {
+            "Key": "bc7c6e85-ecd4-4077-a4dd-7d070efaa79c",
+            "Value": {
+                "id": "20c10dbd-f4bb-4f5d-81e6-5d5b733797df",
+                "resourcePath": "sprites\\sprEnemyHealth\\sprEnemyHealth.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd47fd53-3d8d-44bd-ba0b-732df1064bf5",
             "Value": {
                 "id": "6f2b6c93-f247-416e-9c42-fe9531ba75ad",
@@ -1276,6 +1292,14 @@
                 "id": "2a01249b-d764-4ece-8913-3d5117dfd141",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f4fac7e0-374d-45f7-b71a-1428a4c6e65e",
+            "Value": {
+                "id": "1e5a3b41-98ab-4eb1-92f6-d309efd3c118",
+                "resourcePath": "sprites\\sprEnemyHealthDot\\sprEnemyHealthDot.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
