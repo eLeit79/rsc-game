@@ -1,0 +1,1 @@
+DestroyBarrel(other);

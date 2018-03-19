@@ -1,0 +1,2 @@
+x += xSpd;
+y += ySpd;
