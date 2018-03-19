@@ -1,2 +1,2 @@
 # Robotic Specimen Collector
-Top-down shooter made in GMS2 for WeeklyGameJam #34
+Top-down shooter made in GameMaker Studio 2 for WeeklyGameJam #34
