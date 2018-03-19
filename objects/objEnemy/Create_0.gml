@@ -6,3 +6,6 @@ ySpd = 0;
 hitFlash = 0;
 knockoutTimer = 0;
 hp = initialhp;
+hpAlpha = 1;
+hpSegments = 16 / initialhp;
+knockSegments = 16 / (knockoutTime * room_speed);
